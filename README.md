@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @omargtdev
+# 👋 Hi, I’m Omar Gutierrez
 
 #### Language
 - :us: English
