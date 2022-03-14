@@ -10,7 +10,7 @@ También, estoy mejorando mis habilidades en Inglés para una mejor comunicació
 proyectos y decirme tu opinion! Cualquier feedback o comentario es apreciado :v:
 
 - 👀 Estoy interesado en el desarrollo web y de software.
-- 🌱 Actualemente estoy aprendiendo herramientas de JS (como webpack y babel)
+- 🌱 Actualemente estoy aprendiendo POO a profundidad
 - 💞️ Busco colaborar en aplicaciones web.
 - 📫 Como llegar a mi: <omar.gutierrez.tafur@gmail.com>
 - :muscle: Autodidacta
