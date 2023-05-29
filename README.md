@@ -10,7 +10,7 @@ Also, I'm improving my English skills for a better communication with people aro
 tell me your opinion! Any feedback is appreciated :v:
 
 - 👀 I’m interested in web and software development.
-- 🌱 I’m currently learning OPP to depth
+- 🌱 I’m currently learning Linux Ecosystem and Backed web development
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me: <omar.gutierrez.tafur@gmail.com>
 - :muscle: Self taught
